@@ -20,6 +20,6 @@
   "homepage": "https://github.com/mpassade-CI/express-moment#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.26.0"
+    "moment": "^2.29.2"
   }
 }
